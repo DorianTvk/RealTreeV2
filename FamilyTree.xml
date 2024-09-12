@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="FamilyTree.xslt"?>
+
+<FamilyTree>
+
+<Person>
+    <name>Elizabeth II</name>
+    <BirthYear>1926</BirthYear>
+    <DeathYear>2022</DeathYear>
+    <Title>Queen</Title>
+    <Spouse>
+        <name>Prince Philip</name>
+        <BirthYear>1921</BirthYear>
+        <DeathYear>2021</DeathYear>
+        <Title>Duke of Edinburgh</Title>
+    </Spouse>
+    <Children>
+        <Child>
+            <name>Charles III</name>
+            <BirthYear>1948</BirthYear>
+            <Title>King</Title>
+            <Spouse>
+                <name>Princess Diana</name>
+                <BirthYear>1961</BirthYear>
+                <Title>Princess of Wales</Title>
+        </Spouse>
+        <Children>
+        <Child>    
+                <name>William</name>
+                <BirthYear>1982</BirthYear>
+                <Title>Prince of Wales</Title>
+                <Spouse>
+                    <name>Catherine</name>
+                    <BirthYear>1982</BirthYear>
+                    <Title>Princess of Wales</Title>
+                </Spouse>
+                <Children>
+                    <Child>
+                        <name>George</name>
+                        <BirthYear>2013</BirthYear>
+                        <title>Prince of Wales</title>
+                    </Child>
+                    <Child>
+                        <name>Charlotte</name>
+                        <Birthday>2015</Birthday>
+                        <title>Princess of Wales</title>
+                    </Child>
+                    <Child>
+                        <name>Louis</name>
+                        <birthday>2018</birthday>
+                        <title>Prince of Wales</title>
+                    </Child>
+                </Children>
+            </Child>
+        </Children>
+    </Child>
+</Children>
+
+</Person>
+
+
+</FamilyTree>
